@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi, I'm Nanthicha.
+- 🌱 I’m currently studying Computer Engineering at Chulalongkorn University.
 
 <!--
 **nnanthicha/nnanthicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
